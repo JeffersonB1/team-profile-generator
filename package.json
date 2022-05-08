@@ -1,0 +1,23 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeffersonB1/team-profile-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeffersonB1/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/JeffersonB1/team-profile-generator#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
